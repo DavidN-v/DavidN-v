@@ -23,9 +23,7 @@
 
 ## 🧑‍💻 `whoami`
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" width="320" src="https://raw.githubusercontent.com/DavidN-v/DavidN-v/main/akame-4k-akame.gif"/>
 
 ```typescript
 const david = {
@@ -40,14 +38,7 @@ const david = {
 };
 ```
 
-</td>
-<td valign="middle" width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/DavidN-v/DavidN-v/main/akame-4k-akame.gif" width="300" style="border-radius: 12px"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
