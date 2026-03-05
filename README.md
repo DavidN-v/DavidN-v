@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 `whoami`
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/DavidN-v/DavidN-v/main/akame-4k-akame.gif"/>
+<img align="right" width="405" height="290" src="https://raw.githubusercontent.com/DavidN-v/DavidN-v/main/akame-4k-akame.gif"/>
 
 ```typescript
 const david = {
