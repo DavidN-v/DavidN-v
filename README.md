@@ -21,9 +21,11 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🧑‍💻 `whoami`
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```typescript
 const david = {
@@ -38,7 +40,14 @@ const david = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/DavidN-v/DavidN-v/main/akame-4k-akame.gif" width="300" style="border-radius: 12px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
